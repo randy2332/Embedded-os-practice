@@ -1,6 +1,6 @@
 # Lab7
 
-由Game.c 與 Guess.c 所組成的猜數字遊戲。
+
 
 A guessing game composed of Game.c and Guess.c.
 
